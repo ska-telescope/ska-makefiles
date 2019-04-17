@@ -18,7 +18,7 @@ PROJECT = powersupply
 # build, 'make push' docker push procedure, etc. The other Make targets
 # ('make interactive', 'make test', etc.) are defined in this file.
 #
-include ../.make/Makefile.mk
+include .make/Makefile.mk
 
 #
 # IMAGE_TO_TEST defines the tag of the Docker image to test
