@@ -1,11 +1,11 @@
 # ska-makefiles
 A central place to keep and manage all of the SKA-telescope organisation's Makefiles.
 
-The following sections will detail the instructions needed to be followed to use this repository.
+The following sections will detail the instructions needed to be followed to make use of this repository.
 
 **How to use this repository**
 
-Each project Makefile lives in a directory with the name matching with the git repository. To use this repo in your own git project, you will need to add it as a submodule in your project. To do that, run the following command in the root directory:
+Each project Makefile lives in a directory with the name matching with the git repository, e.g. `tango_example`. To use this repo in your own git project, you will need to add it as a submodule in your project. To do that, run the following command in the root directory:
 
 ```git submodule add ska-makefiles```
 
